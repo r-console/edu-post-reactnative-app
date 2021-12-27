@@ -21,7 +21,7 @@ export default function HomeScreen() {
       <View style={styles.postcard}>
             <View style={{flexDirection:'row'}}>
                 <MaterialCommunityIcons name="account" color={'#000'} size={20} style={{padding:5,backgroundColor:'#ccc',borderRadius:100}} />
-                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> Sasireka</Text>
+                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> Staff1</Text>
             </View>
             <View style={{padding:10}}>
                 <Text style={styles.text}>Java book edition 2</Text>
@@ -40,7 +40,7 @@ export default function HomeScreen() {
       <View style={styles.postcard}>
             <View style={{flexDirection:'row'}}>
                 <MaterialCommunityIcons name="account" color={'#000'} size={20} style={{padding:5,backgroundColor:'#ccc',borderRadius:100}} />
-                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> N Murali</Text>
+                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> Staff2</Text>
             </View>
             <View style={{padding:10}}>
                 <Text style={styles.text}>Unit 1 Syllabus</Text>
@@ -59,7 +59,7 @@ export default function HomeScreen() {
       <View style={styles.postcard}>
             <View style={{flexDirection:'row'}}>
                 <MaterialCommunityIcons name="account" color={'#000'} size={20} style={{padding:5,backgroundColor:'#ccc',borderRadius:100}} />
-                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> Vijayalakshmi</Text>
+                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> Staff3</Text>
             </View>
             <View style={{padding:10}}>
                 <Text style={styles.text}>C Programming 1st Edition</Text>
@@ -78,7 +78,7 @@ export default function HomeScreen() {
       <View style={styles.postcard}>
             <View style={{flexDirection:'row'}}>
                 <MaterialCommunityIcons name="account" color={'#000'} size={20} style={{padding:5,backgroundColor:'#ccc',borderRadius:100}} />
-                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> N Murali</Text>
+                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> staff2</Text>
             </View>
             <View style={{padding:10}}>
                 <Text style={styles.text}>Unit 1 Syllabus</Text>
@@ -94,7 +94,7 @@ export default function HomeScreen() {
       <View style={styles.postcard}>
             <View style={{flexDirection:'row'}}>
                 <MaterialCommunityIcons name="account" color={'#000'} size={20} style={{padding:5,backgroundColor:'#ccc',borderRadius:100}} />
-                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> N Murali</Text>
+                <Text style={{alignSelf:'center',fontSize:16,fontWeight:'bold'}}> Staff1</Text>
             </View>
             <View style={{padding:10}}>
                 <Text style={styles.text}>Unit 1 Syllabus</Text>

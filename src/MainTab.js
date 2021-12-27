@@ -30,9 +30,9 @@ export default function MyTabs() {
         name="Profile"
         component={PostScreen}
         options={{
-          tabBarLabel: 'Profile',
+          tabBarLabel: 'Post',
           tabBarIcon: ({ color }) => (
-            <MaterialCommunityIcons name="account" color={color} size={26} />
+            <MaterialCommunityIcons name="comment" color={color} size={26} />
           ),
         }}
       />
