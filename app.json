@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EDU-Post",
+    "slug": "EDU-Post",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "EDU-Post"
+}
